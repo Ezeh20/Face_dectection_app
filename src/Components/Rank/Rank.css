@@ -1,0 +1,11 @@
+.rank{
+    display: flex;
+    justify-content: center;
+}
+.aa{
+    color: white;
+ 
+}
+.ab{
+    color:rgba(0, 0, 255, 1);
+}
