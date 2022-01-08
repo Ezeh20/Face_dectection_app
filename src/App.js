@@ -73,7 +73,7 @@ class App extends React.Component{
     //the box state will use the return value from the calculateFaceLocation function
     .then(response=>{
       if(response){
-        fetch('http://localhost:3001/image',{
+        fetch('https://sleepy-dusk-13865.herokuapp.com/image',{
           method: 'put',
           headers:{'Content-Type': 'application/json'},
           body:JSON.stringify({
