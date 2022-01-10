@@ -1,3 +1,8 @@
 .qe{
     border: royalblue;
 }
+@media (max-width: 700px) {
+    .me {
+    width: 280px;
+    }
+}
