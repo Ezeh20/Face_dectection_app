@@ -39,7 +39,7 @@ class Register extends React.Component{
   }
   render(){
     return(
-      <article className="br2 ba dark-gray bg-white  mv4 w-100 w-50-m w-25-l mw6 top center shadow-5 br4">
+      <article className="br2 ba dark-gray bg-white  mv4 w-100 w-50-m w-25-l mw6 top center shadow-5 br4 mi">
        <main className="pa4 white-80">
         <form className="measure ">
           <fieldset id="sign_up" class="ba b--transparent ph0 mh0">

@@ -2,9 +2,33 @@
     width: 100px;
     height: 100px;
 }
+.Tilt{
+  width: 100px;
+}
 .aa{
-    margin-left: 50px;
+    margin-left: 10px;
 }
 .bq{
   background:linear-gradient(to right, rgb(223, 159, 216), rgb(19, 160, 231));
+  width: 10px;
+}
+
+.ayo{
+  width: 150px;
+  height: 150px;
+}
+.ayi{
+  width: 100px;
+  height: 100px;
+}
+@media (max-width: 700px) {
+  .ayi {
+  width: 70px;
+  height: 40px;
+
+  }
+  .ayo{
+  width: 100px;
+  height: 100px;
+  }
 }

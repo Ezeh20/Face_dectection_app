@@ -8,7 +8,7 @@ const Rank=({name,entries})=>{
             <div className="aa f3">
             {`${name} ,  your current entry is`} 
             </div>
-            <div  className="ab f2">
+            <div  className="ab f2 entries">
             {entries}
             </div>
             </div>
